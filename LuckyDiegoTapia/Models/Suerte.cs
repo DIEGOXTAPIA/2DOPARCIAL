@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebPeople2.Models
+namespace LuckyDiegoTapia.Models
 {
     public enum DetalleType
     {
