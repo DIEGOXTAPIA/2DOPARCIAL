@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LuckyDiegoTapia.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace LuckyDiegoTapia.Data
 {

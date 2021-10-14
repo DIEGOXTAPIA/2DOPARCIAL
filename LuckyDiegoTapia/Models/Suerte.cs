@@ -7,7 +7,7 @@ namespace LuckyDiegoTapia.Models
         Malasuerte = 0,
         Buenasuerte = 1,
     }
-    public class Person
+    public class Suerte
     {
         [Key]
         public int SuerteId { get; set; }
